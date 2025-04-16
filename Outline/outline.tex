@@ -2,13 +2,17 @@
 \usepackage{graphicx} 
 \usepackage[margin=0.5in]{geometry}
 \usepackage{amsmath, booktabs, float, hyperref, graphicx}
-\usepackage[style=apa, backend=biber]{biblatex} % Load APA style with biber backend
+\usepackage[style=apa, backend=biber]{biblatex} 
 \addbibresource{references.bib}
 
-\title{Right to Content Moderation}
+\usepackage{etoolbox} 
+\setlength\bibitemsep{1.5\baselineskip} 
+
+\title{Outline \& Abstract on Online Content Moderation}
 \author{Salvin Chowdhury}
 \date{\today}
 \renewcommand{\contentsname}{The Outline}
+
 
 \begin{document}
 
@@ -274,8 +278,11 @@ can no longer access the community they've been removed from to express the inju
 them. As a result, good moderation will depend on the mercifulness and maturity of the moderator, something which
 can't be guaranteed to be found in all moderators.
 
-\section{Sources}
+\newpage
 
+\nocite{*} 
+\addcontentsline{toc}{section}{References}
+\printbibliography
 
 
 \end{document}

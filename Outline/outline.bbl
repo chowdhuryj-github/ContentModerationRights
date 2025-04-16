@@ -1,0 +1,731 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{dias2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4cd38eaa76d7159f8ac4b299e8f7bebb}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Oliva\bibnamedelima T.},
+           giveni={O\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d90c73ef8a0e245bd0b4f1f028241ba}{%
+           family={Antonialli},
+           familyi={A\bibinitperiod},
+           given={Dennys\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04ec42f9817b7e893eef14059c942aab}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{2b5547c5b45b30c9499474ac36b31d3c}
+      \strng{fullhash}{682ca256c721284926614ff316227674}
+      \strng{fullhashraw}{682ca256c721284926614ff316227674}
+      \strng{bibnamehash}{682ca256c721284926614ff316227674}
+      \strng{authorbibnamehash}{682ca256c721284926614ff316227674}
+      \strng{authornamehash}{2b5547c5b45b30c9499474ac36b31d3c}
+      \strng{authorfullhash}{682ca256c721284926614ff316227674}
+      \strng{authorfullhashraw}{682ca256c721284926614ff316227674}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Companies operating internet platforms are developing artificial intelligence tools for content moderation purposes. This paper discusses technologies developed to measure the ‘toxicity’ of text-based content. The research builds upon queer linguistic studies that have indicated the use of ‘mock impoliteness’ as a form of interaction employed by LGBTQ people to cope with hostility. Automated analyses that disregard such a pro-social function may, contrary to their intended design, actually reinforce harmful biases. This paper uses ‘Perspective’, an AI technology developed by Jigsaw (formerly Google Ideas), to measure the levels of toxicity of tweets from prominent drag queens in the United States. The research indicated that Perspective considered a significant number of drag queen Twitter accounts to have higher levels of toxicity than white nationalists. The qualitative analysis revealed that Perspective was not able to properly consider social context when measuring toxicity levels and failed to recognize cases in which words, that might conventionally be seen as offensive, conveyed different meanings in LGBTQ speech.}
+      \field{isbn}{10955143}
+      \field{journaltitle}{Sexuality \& Culture}
+      \field{month}{04}
+      \field{note}{Copyright - © Springer Science+Business Media, LLC, part of Springer Nature 2020; Last updated - 2024-03-26}
+      \field{number}{2}
+      \field{title}{Fighting Hate Speech, Silencing Drag Queens? Artificial Intelligence in Content Moderation and Risks to LGBTQ Voices Online}
+      \field{volume}{25}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{700\bibrangedash 732}
+      \range{pages}{33}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/fighting-hate-speech-silencing-drag-queens/docview/2495185828/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/fighting-hate-speech-silencing-drag-queens/docview/2495185828/se-2
+      \endverb
+      \keyw{Medical Sciences,Artificial intelligence,Twitter,Hate speech,Content moderation,Toxicity,Queer linguistics,Drag queens,Y,GenderWatch,Hostility,Content management,Qualitative research,Social environment,Social function,Technology,LGBTQ people,Nationalism,Drag (Performance)}
+    \endentry
+    \entry{tarleton2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce36d4965a00d6cc54683c17c8f2101e}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={Tarleton},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{fullhash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{fullhashraw}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{bibnamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorbibnamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authornamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorfullhash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorfullhashraw}{ce36d4965a00d6cc54683c17c8f2101e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AI seems like the perfect response to the growing challenges of content moderation on social media platforms: the immense scale of the data, the relentlessness of the violations, and the need for human judgments without wanting humans to have to make them. The push toward automated content moderation is often justified as a necessary response to the scale: the enormity of social media platforms like Facebook and YouTube stands as the reason why AI approaches are desirable, even inevitable. But even if we could effectively automate content moderation, it is not clear that we should.}
+      \field{journaltitle}{Big Data \& Society}
+      \field{month}{07}
+      \field{note}{Copyright - © The Author(s) 2020. This work is licensed under the Creative Commons Attribution – Non-Commercial License https://creativecommons.org/licenses/by-nc/4.0/ (the “License”). Last updated - 2024-11-17}
+      \field{number}{2}
+      \field{title}{Content moderation, AI, and the question of scale}
+      \field{volume}{7}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/content-moderation-ai-question-scale/docview/2473716357/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/content-moderation-ai-question-scale/docview/2473716357/se-2
+      \endverb
+      \keyw{Computers--Electronic Data Processing,Artificial intelligence,bias,content moderation,platforms,scale,social media,Facebook,Moderation,YouTube,Content,Automation,Social networks,Content management,Digital media}
+    \endentry
+    \entry{hobbes2018}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=225ea03e130430d41c202d9fe7612ed0}{%
+           family={Hobbes},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {United States}%
+      }
+      \list{publisher}{1}{%
+        {Lerner Publishing Group}%
+      }
+      \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhashraw}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{bibnamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorbibnamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authornamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorfullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorfullhashraw}{225ea03e130430d41c202d9fe7612ed0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leviathan}
+      \field{title}{XIII: Of the Naturall Condition of Mankind, as Concerning Their Felicity, and Misery}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{1013833}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9527d81e971449e5734e0be284d7bb7e}{%
+           family={Huff},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a9d4d30567b6232f12bfb96b178b65}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={D.G.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f87487572e943cc077a28a9dc78c273a}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17f0de597b0061cd32efe8d49978b4fe}
+      \strng{fullhash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{fullhashraw}{fa8006e3e9a649e78527906c149279f9}
+      \strng{bibnamehash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authorbibnamehash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authornamehash}{17f0de597b0061cd32efe8d49978b4fe}
+      \strng{authorfullhash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authorfullhashraw}{fa8006e3e9a649e78527906c149279f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 2002 International Symposium on Technology and Society (ISTAS'02). Social Implications of Information and Communication Technology. Proceedings (Cat. No.02CH37293)}
+      \field{title}{Virtual harms and virtual responsibility: a rape in cyberspace}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{323\bibrangedash 330}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ISTAS.2002.1013833
+      \endverb
+      \keyw{Virtual reality;Programming profession;Educational institutions;Ethics;Virtual environment;Multiuser detection;Databases;Hair;Software tools}
+    \endentry
+    \entry{mackinnon1992}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dbaf97de39034b2980411b5159f780a5}{%
+           family={MacKinnon},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {ProQuest Dissertations}%
+        {Theses}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{fullhash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{fullhashraw}{dbaf97de39034b2980411b5159f780a5}
+      \strng{bibnamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorbibnamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authornamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorfullhash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorfullhashraw}{dbaf97de39034b2980411b5159f780a5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this thesis is to identify signs of Thomas Hobbes' Leviathan in the Usenet computer conferencing network. Certainly nothing that the Usenet users can experience can compare to the Hobbesian scenario in which persons are forced to give up the right to govern themselves in exchange for personal safety. This is certainly true on the surface, but there is another level of interaction within Usenet other than user-to-user. It is the level of the users' "personae," and it is at this level of understanding that the fear of vanishing from existence is ever present and near. For personae within Usenet, life can be described as "solitary, poor, nasty, brutish, and short." And it is for their sakes that this researcher has searched for and found a Leviathan in Usenet.}
+      \field{isbn}{979-8-207-89610-6}
+      \field{note}{Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works; Last updated - 2023-02-20}
+      \field{title}{Searching for the Leviathan in Usenet}
+      \field{type}{phdthesis}
+      \field{year}{1992}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/searching-leviathan-usenet/docview/304027876/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/searching-leviathan-usenet/docview/304027876/se-2
+      \endverb
+      \keyw{Philosophy,religion and theology; Communication and the arts; Social sciences; Applied sciences; Political science; Communication; Philosophy; Computer science; 0459:Communication; 0615:Political science; 0422:Philosophy; 0984:Computer science}
+    \endentry
+    \entry{prichard2002}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d3418157a7a34c69e12c70f6a0532b7}{%
+           family={Prichard},
+           familyi={P\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{fullhash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{fullhashraw}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{bibnamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorbibnamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authornamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorfullhash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorfullhashraw}{7d3418157a7a34c69e12c70f6a0532b7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discusses central aspects of Kant's work on the nature of morality and the basis of moral obligation. In examining the categorical imperative and the hypothetical imperative, emphasizes the real nature of the distinction between these principles: whereas the former is binding upon everyone, the latter is binding only upon some individuals, namely those individuals who want the end for which a prescribed action is a means. Also considers the nature of the will, Kant's criterion of the rightness of a right action, and two criticisms of Kant's view of morality that arise from his attempt to offer a general answer to the question ‘Why ought an action be performed?’ Then turns to Kant's proof of freedom, which it is claimed just barely misses making the right point that action is only possible under the idea of freedom. Concludes by examining Kant's proof of immortality and the existence of God.}
+      \field{booktitle}{Moral Writings}
+      \field{isbn}{9780199250196, 0199250197}
+      \field{title}{Kant's Fundamental Principles of the Metaphysic of Morals}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{samples1972government}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c6fad56a720f61d5ddf7679c8f9ed668}{%
+           family={Samples},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{fullhash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{fullhashraw}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{bibnamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorbibnamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authornamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorfullhash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorfullhashraw}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Retrieved from CATO Institute: https://www. cato. org/publications/policy-analysis/why-government-should-not-regulate-contentmoderation-social-media (2.12. 2020)}
+      \field{title}{Why the Government Should Not Regulate Content Moderation of Social Media, 2019, April 9}
+      \field{year}{1972}
+      \true{nocite}
+    \endentry
+    \entry{10.1145/3415178}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=304b790a5173c8e31843ddf4d0293eed}{%
+           family={Seering},
+           familyi={S\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{fullhash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{fullhashraw}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{bibnamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorbibnamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authornamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorfullhash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorfullhashraw}{304b790a5173c8e31843ddf4d0293eed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research in online content moderation has a long history of exploring different forms that moderation can take, including both user-driven moderation models on community-based platforms like Wikipedia, Facebook Groups, and Reddit, and centralized corporate moderation models on platforms like Twitter and Instagram. In this work I review different approaches to moderation research with the goal of providing a roadmap for researchers studying community self-moderation. I contrast community-based moderation research with platforms and policies-focused moderation research, and argue that the former has an important role to play in shaping discussions about the future of online moderation. I provide six guiding questions for future research that, if answered, can support the development of a form of user-driven moderation that is widely implementable across a variety of social spaces online, offering an alternative to the corporate moderation models that dominate public debate and discussion.}
+      \field{journaltitle}{Proc. ACM Hum.-Comput. Interact.}
+      \field{month}{10}
+      \field{number}{CSCW2}
+      \field{title}{Reconsidering Self-Moderation: the Role of Research in Supporting Community-Based Models for Online Content Moderation}
+      \field{volume}{4}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1145/3415178
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3415178
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3415178
+      \endverb
+      \keyw{social networks,platforms,online communities,moderation,hate speech,harassment,governance}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{dias2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4cd38eaa76d7159f8ac4b299e8f7bebb}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Oliva\bibnamedelima T.},
+           giveni={O\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d90c73ef8a0e245bd0b4f1f028241ba}{%
+           family={Antonialli},
+           familyi={A\bibinitperiod},
+           given={Dennys\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04ec42f9817b7e893eef14059c942aab}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{2b5547c5b45b30c9499474ac36b31d3c}
+      \strng{fullhash}{682ca256c721284926614ff316227674}
+      \strng{fullhashraw}{682ca256c721284926614ff316227674}
+      \strng{bibnamehash}{682ca256c721284926614ff316227674}
+      \strng{authorbibnamehash}{682ca256c721284926614ff316227674}
+      \strng{authornamehash}{2b5547c5b45b30c9499474ac36b31d3c}
+      \strng{authorfullhash}{682ca256c721284926614ff316227674}
+      \strng{authorfullhashraw}{682ca256c721284926614ff316227674}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Companies operating internet platforms are developing artificial intelligence tools for content moderation purposes. This paper discusses technologies developed to measure the ‘toxicity’ of text-based content. The research builds upon queer linguistic studies that have indicated the use of ‘mock impoliteness’ as a form of interaction employed by LGBTQ people to cope with hostility. Automated analyses that disregard such a pro-social function may, contrary to their intended design, actually reinforce harmful biases. This paper uses ‘Perspective’, an AI technology developed by Jigsaw (formerly Google Ideas), to measure the levels of toxicity of tweets from prominent drag queens in the United States. The research indicated that Perspective considered a significant number of drag queen Twitter accounts to have higher levels of toxicity than white nationalists. The qualitative analysis revealed that Perspective was not able to properly consider social context when measuring toxicity levels and failed to recognize cases in which words, that might conventionally be seen as offensive, conveyed different meanings in LGBTQ speech.}
+      \field{isbn}{10955143}
+      \field{journaltitle}{Sexuality \& Culture}
+      \field{month}{04}
+      \field{note}{Copyright - © Springer Science+Business Media, LLC, part of Springer Nature 2020; Last updated - 2024-03-26}
+      \field{number}{2}
+      \field{title}{Fighting Hate Speech, Silencing Drag Queens? Artificial Intelligence in Content Moderation and Risks to LGBTQ Voices Online}
+      \field{volume}{25}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{700\bibrangedash 732}
+      \range{pages}{33}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/fighting-hate-speech-silencing-drag-queens/docview/2495185828/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/fighting-hate-speech-silencing-drag-queens/docview/2495185828/se-2
+      \endverb
+      \keyw{Medical Sciences,Artificial intelligence,Twitter,Hate speech,Content moderation,Toxicity,Queer linguistics,Drag queens,Y,GenderWatch,Hostility,Content management,Qualitative research,Social environment,Social function,Technology,LGBTQ people,Nationalism,Drag (Performance)}
+    \endentry
+    \entry{tarleton2020}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce36d4965a00d6cc54683c17c8f2101e}{%
+           family={Gillespie},
+           familyi={G\bibinitperiod},
+           given={Tarleton},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{fullhash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{fullhashraw}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{bibnamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorbibnamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authornamehash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorfullhash}{ce36d4965a00d6cc54683c17c8f2101e}
+      \strng{authorfullhashraw}{ce36d4965a00d6cc54683c17c8f2101e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AI seems like the perfect response to the growing challenges of content moderation on social media platforms: the immense scale of the data, the relentlessness of the violations, and the need for human judgments without wanting humans to have to make them. The push toward automated content moderation is often justified as a necessary response to the scale: the enormity of social media platforms like Facebook and YouTube stands as the reason why AI approaches are desirable, even inevitable. But even if we could effectively automate content moderation, it is not clear that we should.}
+      \field{journaltitle}{Big Data \& Society}
+      \field{month}{07}
+      \field{note}{Copyright - © The Author(s) 2020. This work is licensed under the Creative Commons Attribution – Non-Commercial License https://creativecommons.org/licenses/by-nc/4.0/ (the “License”). Last updated - 2024-11-17}
+      \field{number}{2}
+      \field{title}{Content moderation, AI, and the question of scale}
+      \field{volume}{7}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/content-moderation-ai-question-scale/docview/2473716357/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/scholarly-journals/content-moderation-ai-question-scale/docview/2473716357/se-2
+      \endverb
+      \keyw{Computers--Electronic Data Processing,Artificial intelligence,bias,content moderation,platforms,scale,social media,Facebook,Moderation,YouTube,Content,Automation,Social networks,Content management,Digital media}
+    \endentry
+    \entry{hobbes2018}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=225ea03e130430d41c202d9fe7612ed0}{%
+           family={Hobbes},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {United States}%
+      }
+      \list{publisher}{1}{%
+        {Lerner Publishing Group}%
+      }
+      \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhashraw}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{bibnamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorbibnamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authornamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorfullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorfullhashraw}{225ea03e130430d41c202d9fe7612ed0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leviathan}
+      \field{title}{XIII: Of the Naturall Condition of Mankind, as Concerning Their Felicity, and Misery}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{1013833}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9527d81e971449e5734e0be284d7bb7e}{%
+           family={Huff},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09a9d4d30567b6232f12bfb96b178b65}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={D.G.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f87487572e943cc077a28a9dc78c273a}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17f0de597b0061cd32efe8d49978b4fe}
+      \strng{fullhash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{fullhashraw}{fa8006e3e9a649e78527906c149279f9}
+      \strng{bibnamehash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authorbibnamehash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authornamehash}{17f0de597b0061cd32efe8d49978b4fe}
+      \strng{authorfullhash}{fa8006e3e9a649e78527906c149279f9}
+      \strng{authorfullhashraw}{fa8006e3e9a649e78527906c149279f9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 2002 International Symposium on Technology and Society (ISTAS'02). Social Implications of Information and Communication Technology. Proceedings (Cat. No.02CH37293)}
+      \field{title}{Virtual harms and virtual responsibility: a rape in cyberspace}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{323\bibrangedash 330}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ISTAS.2002.1013833
+      \endverb
+      \keyw{Virtual reality;Programming profession;Educational institutions;Ethics;Virtual environment;Multiuser detection;Databases;Hair;Software tools}
+    \endentry
+    \entry{mackinnon1992}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dbaf97de39034b2980411b5159f780a5}{%
+           family={MacKinnon},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {ProQuest Dissertations}%
+        {Theses}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{fullhash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{fullhashraw}{dbaf97de39034b2980411b5159f780a5}
+      \strng{bibnamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorbibnamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authornamehash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorfullhash}{dbaf97de39034b2980411b5159f780a5}
+      \strng{authorfullhashraw}{dbaf97de39034b2980411b5159f780a5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this thesis is to identify signs of Thomas Hobbes' Leviathan in the Usenet computer conferencing network. Certainly nothing that the Usenet users can experience can compare to the Hobbesian scenario in which persons are forced to give up the right to govern themselves in exchange for personal safety. This is certainly true on the surface, but there is another level of interaction within Usenet other than user-to-user. It is the level of the users' "personae," and it is at this level of understanding that the fear of vanishing from existence is ever present and near. For personae within Usenet, life can be described as "solitary, poor, nasty, brutish, and short." And it is for their sakes that this researcher has searched for and found a Leviathan in Usenet.}
+      \field{isbn}{979-8-207-89610-6}
+      \field{note}{Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works; Last updated - 2023-02-20}
+      \field{title}{Searching for the Leviathan in Usenet}
+      \field{type}{phdthesis}
+      \field{year}{1992}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/searching-leviathan-usenet/docview/304027876/se-2
+      \endverb
+      \verb{url}
+      \verb https://msoe.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/searching-leviathan-usenet/docview/304027876/se-2
+      \endverb
+      \keyw{Philosophy,religion and theology; Communication and the arts; Social sciences; Applied sciences; Political science; Communication; Philosophy; Computer science; 0459:Communication; 0615:Political science; 0422:Philosophy; 0984:Computer science}
+    \endentry
+    \entry{prichard2002}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d3418157a7a34c69e12c70f6a0532b7}{%
+           family={Prichard},
+           familyi={P\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{fullhash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{fullhashraw}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{bibnamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorbibnamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authornamehash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorfullhash}{7d3418157a7a34c69e12c70f6a0532b7}
+      \strng{authorfullhashraw}{7d3418157a7a34c69e12c70f6a0532b7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discusses central aspects of Kant's work on the nature of morality and the basis of moral obligation. In examining the categorical imperative and the hypothetical imperative, emphasizes the real nature of the distinction between these principles: whereas the former is binding upon everyone, the latter is binding only upon some individuals, namely those individuals who want the end for which a prescribed action is a means. Also considers the nature of the will, Kant's criterion of the rightness of a right action, and two criticisms of Kant's view of morality that arise from his attempt to offer a general answer to the question ‘Why ought an action be performed?’ Then turns to Kant's proof of freedom, which it is claimed just barely misses making the right point that action is only possible under the idea of freedom. Concludes by examining Kant's proof of immortality and the existence of God.}
+      \field{booktitle}{Moral Writings}
+      \field{isbn}{9780199250196, 0199250197}
+      \field{title}{Kant's Fundamental Principles of the Metaphysic of Morals}
+      \field{year}{2002}
+      \true{nocite}
+    \endentry
+    \entry{samples1972government}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c6fad56a720f61d5ddf7679c8f9ed668}{%
+           family={Samples},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{fullhash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{fullhashraw}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{bibnamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorbibnamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authornamehash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorfullhash}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \strng{authorfullhashraw}{c6fad56a720f61d5ddf7679c8f9ed668}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Retrieved from CATO Institute: https://www. cato. org/publications/policy-analysis/why-government-should-not-regulate-contentmoderation-social-media (2.12. 2020)}
+      \field{title}{Why the Government Should Not Regulate Content Moderation of Social Media, 2019, April 9}
+      \field{year}{1972}
+      \true{nocite}
+    \endentry
+    \entry{10.1145/3415178}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=304b790a5173c8e31843ddf4d0293eed}{%
+           family={Seering},
+           familyi={S\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{fullhash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{fullhashraw}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{bibnamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorbibnamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authornamehash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorfullhash}{304b790a5173c8e31843ddf4d0293eed}
+      \strng{authorfullhashraw}{304b790a5173c8e31843ddf4d0293eed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research in online content moderation has a long history of exploring different forms that moderation can take, including both user-driven moderation models on community-based platforms like Wikipedia, Facebook Groups, and Reddit, and centralized corporate moderation models on platforms like Twitter and Instagram. In this work I review different approaches to moderation research with the goal of providing a roadmap for researchers studying community self-moderation. I contrast community-based moderation research with platforms and policies-focused moderation research, and argue that the former has an important role to play in shaping discussions about the future of online moderation. I provide six guiding questions for future research that, if answered, can support the development of a form of user-driven moderation that is widely implementable across a variety of social spaces online, offering an alternative to the corporate moderation models that dominate public debate and discussion.}
+      \field{journaltitle}{Proc. ACM Hum.-Comput. Interact.}
+      \field{month}{10}
+      \field{number}{CSCW2}
+      \field{title}{Reconsidering Self-Moderation: the Role of Research in Supporting Community-Based Models for Online Content Moderation}
+      \field{volume}{4}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1145/3415178
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3415178
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3415178
+      \endverb
+      \keyw{social networks,platforms,online communities,moderation,hate speech,harassment,governance}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

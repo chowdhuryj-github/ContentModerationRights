@@ -1,0 +1,22 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'outline.blg'
+[148] biber-MSWIN64:340> INFO - === 
+[199] Biber.pm:420> INFO - Reading 'outline.bcf'
+[416] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[444] Biber.pm:4463> INFO - Processing section 0
+[461] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[535] bibtex.pm:1713> INFO - LaTeX decoding ...
+[556] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[663] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[663] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[663] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[663] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[686] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[686] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[702] bbl.pm:676> INFO - Writing 'outline.bbl' with encoding 'UTF-8'
+[716] bbl.pm:779> INFO - Output to outline.bbl
+[716] Biber.pm:131> WARN - ISBN '9780199250196, 0199250197' in entry 'prichard2002' is invalid - run biber with '--validate_datamodel' for details.
+[716] Biber.pm:131> WARN - ISBN '10955143' in entry 'dias2021' is invalid - run biber with '--validate_datamodel' for details.
+[717] Biber.pm:133> INFO - WARNINGS: 2
